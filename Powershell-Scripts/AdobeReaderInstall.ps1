@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "D:\adobeinstall.exe" -Verb runAs -ArgumentList "/qn"
